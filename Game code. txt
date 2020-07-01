@@ -1,0 +1,33 @@
+
+
+
+
+games code: - 
+1 apt install bastet
+-> bastet
+
+2 apt-get install ninvaders
+-> ninvaders
+
+3 apt-get install pacman4console
+-> pacman4console
+
+4 apt-get install nsnake
+-> nsnake
+
+5 apt-get install greed
+-> greed
+
+6 apt-get install bsdgames
+-> atc
+
+7 apt-get install moon-buggy
+-> moon-buggy
+
+8 wget https://raw.githubusercontent.com/mevdschee/2048.c/master/2048.c 
+gcc -o 2048 2048.c
+-> ./2048
+
+
+
+
