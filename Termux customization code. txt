@@ -1,0 +1,21 @@
+
+
+
+termux customization: -
+ 1 mkdir .termux && cd $_
+
+2 pwd
+
+3 nano termux.propertie
+
+4 extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]
+
+5 termux-reload-settings
+
+
+
+
+
+|||||||||||||||||||||||||||||||LIKE||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||SHARE|||||||||||||||||||||||||||||
+||||||||||||||||||||||||||SUBSCRIBE||||||||||||||||||||||||
